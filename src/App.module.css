@@ -2,3 +2,7 @@
   max-width: 1980px;
   width: 98vw;
 }
+
+.section {
+  display: flex;
+}
