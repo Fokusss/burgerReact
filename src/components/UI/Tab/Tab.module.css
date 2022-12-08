@@ -1,0 +1,11 @@
+.button {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid gray;
+}
+
+.button.active {
+  border-bottom: 2px solid #4C4CFF;
+}

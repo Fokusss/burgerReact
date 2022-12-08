@@ -1,0 +1,11 @@
+.box {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.text {
+  margin: 0 0 0 8px;
+  padding: 0;
+}
